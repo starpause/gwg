@@ -104,6 +104,11 @@ These user stories illustrate the needs and desires of the actors rather than pe
 - Results -> green check mark
 - Votes can not be changed once cast, but can be changed before they are. 
 
+### Considered "Nice To Haves" Which Are Out Of Scope
+
+- MVP won't have user profile pages. Candidate names link to their NS profile, candidate "Nomination" links to Kudos/Nominate.
+- MVP won't have a separate dashboard. Upcoming elections can be discovered two ways in the current interface: (1) Congress/Time selector (2) List of upcoming elections under the current election status graphic.
+
 ## Tech Spec
 
 <!-- How does the product implement the features and requirements? Not every feature or requirement needs deep consideration here, but implementation considerations are discusssed they should be captured here. -->
