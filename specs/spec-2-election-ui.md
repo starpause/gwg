@@ -151,6 +151,26 @@ Follow the NDC Brand Book in line with Material Design, falling back on vanilla 
 - Kudos Widget
 - Near Social Profile
 
+## Work Plan
+
+<!-- This can be refined by a party replying to a RFP -->
+
+### Sprints
+
+<!-- Break work down into week long chunks. If a team hasn't been identified then assume it will be an individual completing the work. Each sprint should include something which can be considered "Done" so that the product is usable as soon as possible and then recieves incremental improvements. -->
+
+| Week # | Work to Complete |
+| -------- | -------- |
+|| Load latest election. |
+|| Displaying: Countdown to end, List of Congresses, List of Candidates. |
+|| Switch between houses inside an election. Hide/show votes, bookmark candidates. |
+|| Allocate votes (local storage or social graph storage). |
+|| Cast votes (write to chain). |
+|| Right sidebar: Visualization of votes (Pie or Circle Packing). |
+|| Switch between elections. |
+|| Right sidebar: List of upcoming elections. List of past elections. |
+|| Breakpoint styles for tablet and mobile. |
+
 ## Open Questions and Comments
 
 <!-- Topics not covered in this document that need to be addressed in a meeting or async. Potential future improvements, Summary of open discussion. -->
